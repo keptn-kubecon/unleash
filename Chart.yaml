@@ -1,0 +1,4 @@
+apiVersion: v2
+description: A Helm Chart for project unleash-umbrella
+name: unleash-umbrella
+version: 0.1.0
